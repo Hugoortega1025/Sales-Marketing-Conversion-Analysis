@@ -66,7 +66,7 @@ However, customers aged 30+ convert below average. A scenario analysis showed th
 
 Suggested visual:
 
-![Conversion Rate by Age Group](images/conversion-rate-age-group.png)
+![Conversion Rate by Age Group](visuals/ConversionRateByAge.png)
 
 Business implication:  
 The current pitch resonates most strongly with younger customers. The company should maintain youth-focused campaigns while testing revised messaging for older customers.
@@ -81,7 +81,7 @@ A scenario analysis showed that if family/group travelers matched the couples/pa
 
 Suggested visual:
 
-![Conversion Rate by Traveler Type](images/conversion-rate-traveler-type.png)
+![Conversion Rate by Traveler Type](visuals/ConversionRateByTraveler.png)
 
 Business implication:  
 Couples/pairs are a strong short-term target, but family/group travelers represent the largest improvement opportunity because of their scale.
@@ -96,7 +96,7 @@ This challenges the assumption that higher-income customers are automatically th
 
 Suggested visual:
 
-![Conversion Rate by Income and Occupation](images/conversion-rate-income-occupation.png)
+![Conversion Rate by Income and Occupation](images/ConversionRateByIncomeOccupation.png)
 
 Business implication:  
 The company should maintain value-focused messaging for responsive lower-income customers while testing premium positioning for higher-income segments around exclusivity, flexibility, convenience, and upgraded travel experiences.
@@ -114,7 +114,7 @@ Tier 3 cities produced 311 trips sold with a stronger conversion rate of approxi
 
 Suggested visual:
 
-![Trips Sold and Conversion Rate by City Tier](images/city-tier-sales-conversion.png)
+![Trips Sold and Conversion Rate by City Tier](images/ConversionRateByCityTier.png)
 
 Business implication:  
 The company should maintain Tier 3 performance, improve pitch effectiveness in Tier 1 cities, and use Tier 2 cities as a smaller test market for revised marketing strategies.
