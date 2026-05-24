@@ -96,7 +96,7 @@ This challenges the assumption that higher-income customers are automatically th
 
 Suggested visual:
 
-![Conversion Rate by Income and Occupation](images/ConversionRateByIncomeOccupation.png)
+![Conversion Rate by Income and Occupation](visuals/ConversionRateByIncomeOccupation.png)
 
 Business implication:  
 The company should maintain value-focused messaging for responsive lower-income customers while testing premium positioning for higher-income segments around exclusivity, flexibility, convenience, and upgraded travel experiences.
@@ -114,7 +114,7 @@ Tier 3 cities produced 311 trips sold with a stronger conversion rate of approxi
 
 Suggested visual:
 
-![Trips Sold and Conversion Rate by City Tier](images/ConversionRateByCityTier.png)
+![Trips Sold and Conversion Rate by City Tier](visuals/CityTierConversion.png)
 
 Business implication:  
 The company should maintain Tier 3 performance, improve pitch effectiveness in Tier 1 cities, and use Tier 2 cities as a smaller test market for revised marketing strategies.
@@ -127,7 +127,7 @@ Package-level conversion showed that some package types perform better than othe
 
 Suggested visual:
 
-![Conversion Rate by Package Type](images/conversion-rate-package-type.png)
+![Conversion Rate by Package Type](visuals/ConversionRateByPackage.png)
 
 Business implication:  
 The company should test whether higher-tier packages need different positioning, such as emphasizing upgraded experiences, exclusivity, flexible travel options, or premium service benefits.
